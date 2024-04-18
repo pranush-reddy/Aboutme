@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @pranushreddy89
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning (ohh!! it's secret)
+- 🌱 I’m currently learning (well that's secret)
 - 📫 How to reach me pranush.reddy0102@gmail.com
 - 😄 Pronouns: Funny
-- ⚡ Fun fact: Srilanka is not an Island!!
+- ⚡ Fun fact: Japan is not an Island!!
 
 <!---
 pranushreddy89/pranushreddy89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

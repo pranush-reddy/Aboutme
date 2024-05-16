@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning (well that's secret)
 - 📫 How to reach me pranush.reddy0102@gmail.com
 - 😄 Pronouns: Funny
+- 🏯 Country goal : Japan🎌
 - ⚡ Fun fact: Japan is not an Island!!
 - check my projects on linkedin🔗
 <!---

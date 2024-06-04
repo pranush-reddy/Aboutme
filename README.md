@@ -6,6 +6,7 @@
 - 🏯 Country goal : Japan🎌
 - ⚡ Fun fact: Japan is not an Island!!
 - check my projects on linkedin🔗
+- "Not everything is public🧑‍💻"
 <!---
 pranushreddy89/pranushreddy89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

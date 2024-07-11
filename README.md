@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranushreddy89
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development / coding / ML
 - 🌱 I’m currently learning (well that's secret)
 - 📫 How to reach me pranush.reddy0102@gmail.com
 - 😄 Pronouns: Funny

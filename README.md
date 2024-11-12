@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pranushreddy89
 - 👀 I’m interested in web development / coding / ML
 - 🌱 I’m currently learning (well that's secret)
+- 🩷 what i like doing is coding,anime,karting 
 - 📫 How to reach me pranush.reddy0102@gmail.com
 - 😄 Pronouns: Funny
 - 🏯 Country goal : Japan🎌
